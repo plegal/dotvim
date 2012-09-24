@@ -1,0 +1,1 @@
+/home/plegal/.vimrc
